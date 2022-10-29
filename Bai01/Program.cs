@@ -83,7 +83,7 @@ namespace Bai01
             Console.WriteLine();
             bool b = isSquareNumber(n);
 
-            //Tong cac so le trong mang
+            
             int sum = 0;
             sum = sumOfOddNumber(arr);
             Console.WriteLine("Tong cac so le: " + sum);
